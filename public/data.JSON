@@ -1,0 +1,32 @@
+[
+	{
+		"id": "1",
+		"name": "Luxury Living",
+		"desc": "Luxury Living is a full-stack e-commerce website built using React and Express JS. This website has a different interface for users and admins and also integrated different Sign-In method. This website has an efficient payment system",
+		"liveLink": "https://luxury-living-website.web.app",
+		"clientLink": "https://github.com/coders-sohan/luxury-living-client-side",
+		"serverLink": "https://github.com/coders-sohan/luxury-living-server-side",
+		"img": "https://mofizul-islam-portfolio.netlify.app/luxuryliving.png",
+		"category": "React JS, Tailwind CSS"
+	},
+	{
+		"id": "2",
+		"name": "MoWat Website",
+		"desc": "Mowat is a full-stack e-commerce website built using React and Express JS. This website has a different interface for users and admins and the admin will able to add products and able to see all orders. Users need to login into the website to see products details.",
+		"liveLink": "https://niche-product-website-auth.web.app",
+		"clientLink": "https://github.com/coders-sohan/niche-website-client-side",
+		"serverLink": "https://github.com/coders-sohan/niche-website-server-side",
+		"img": "https://mofizul-islam-portfolio.netlify.app/mowat.png",
+		"category": "React JS, Tailwind CSS"
+	},
+	{
+		"id": "3",
+		"name": "Travel Agency",
+		"desc": "Travel Agency website specially designed for hotel & travel business. This website has been created using a basic authentication system. This website has been created using React JS, MongoDB, Firebase, etc.",
+		"liveLink": "https://tourism-website-react.web.app",
+		"clientLink": "https://github.com/coders-sohan/tourism-or-delivery-website-client-side",
+		"serverLink": "https://github.com/coders-sohan/tourism-or-delivery-website-server",
+		"img": "https://mofizul-islam-portfolio.netlify.app/travleagency.png",
+		"category": "React JS, Bootstrap"
+	}
+]
