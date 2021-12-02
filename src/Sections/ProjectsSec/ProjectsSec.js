@@ -14,7 +14,7 @@ const ProjectsSec = () => {
 			<div className="py-10">
 				<div className="container px-1 md:px:8 lg:px-8 py-10 mx-auto">
 					<div>
-						<h1>hi</h1>
+						<h1>My Projects</h1>
 					</div>
 					<div className="flex flex-wrap">
 						{projects.map((project) => (
