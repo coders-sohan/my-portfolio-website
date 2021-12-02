@@ -12,11 +12,11 @@ const ProjectsSec = () => {
 	return (
 		<>
 			<div className="py-10">
-				<div className="container px-1 md:px:8 lg:px-8 py-10 mx-auto">
-					<div>
-						<h1>My Projects</h1>
+				<div className="container px-3 md:px:8 lg:px-8 py-10 mx-auto">
+					<div className="text-center mb-10">
+						<h1 className="lg:text-5xl md:text-4xl text-3xl underline font-semibold">My Projects</h1>
 					</div>
-					<div className="flex flex-wrap">
+					<div className="flex flex-wrap -m-4">
 						{projects.map((project) => (
 							<Project key={project.id} project={project} />
 						))}

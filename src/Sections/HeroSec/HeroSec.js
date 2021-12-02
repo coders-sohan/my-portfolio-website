@@ -6,7 +6,7 @@ const HeroSec = () => {
 	return (
 		<>
 			<div className="bg-gray-50">
-				<div className="container px-6 md:px:8 lg:px-8 py-24 mx-auto">
+				<div className="container px-3 md:px:8 lg:px-8 py-24 mx-auto">
 					<div className="flex flex-col lg:flex-row justify-between items-center lg:gap-28 gap-5">
 						<div>
 							<div className="py-5">

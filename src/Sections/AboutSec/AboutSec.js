@@ -4,7 +4,7 @@ const AboutSec = () => {
 	return (
 		<>
 			<div className="bg-gray-700 py-20">
-				<div className="container px-6 md:px:8 lg:px-8 py-10 mx-auto">
+				<div className="container px-3 md:px:8 lg:px-8 py-10 mx-auto">
 					<div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 md:gap-20 gap-6">
 						<div className="py-5">
 							<h1 className="text-white text-xl md:text-2xl lg:text-4xl font-semibold">

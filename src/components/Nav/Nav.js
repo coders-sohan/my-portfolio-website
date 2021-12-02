@@ -8,7 +8,7 @@ const Nav = () => {
 	return (
 		<>
 			<div className="border-b bg-white">
-				<div className="container px-6 md:px:8 lg:px-8 py-3 mx-auto">
+				<div className="container px-3 md:px:8 lg:px-8 py-3 mx-auto">
 					<div className="relative flex items-center justify-between">
 						<NavLink
 							to="/"
@@ -35,7 +35,7 @@ const Nav = () => {
 									Home
 								</NavLink>
 							</li>
-							<li>
+							{/* <li>
 								<NavLink
 									to="/projects"
 									activeClassName="text-gray-900"
@@ -45,7 +45,7 @@ const Nav = () => {
 								>
 									Projects
 								</NavLink>
-							</li>
+							</li> */}
 							<li>
 								<NavLink
 									to="/contact"
@@ -134,7 +134,7 @@ const Nav = () => {
 														Home
 													</NavLink>
 												</li>
-												<li className="py-2">
+												{/* <li className="py-2">
 													<NavLink
 														to="/projects"
 														activeClassName="text-gray-900"
@@ -144,7 +144,7 @@ const Nav = () => {
 													>
 														Projects
 													</NavLink>
-												</li>
+												</li> */}
 												<li className="py-2">
 													<NavLink
 														to="/contact"
